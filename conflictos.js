@@ -16,6 +16,12 @@ const integrantes = [
         nombre: "Desarrollador Base",
         rol: "Fullstack Developer",
         bio: "Estructura inicial del sistema lista para recibir las tarjetas de los nuevos ingenieros del equipo."
+    },
+    {
+        id: 3,
+        nombre: "Fernando Developer",
+        rol: "Frontend Enginner",
+        bio: "Especialista en interfaces de usuario"
     }
 ];
 
